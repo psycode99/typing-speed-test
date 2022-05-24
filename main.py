@@ -1,4 +1,4 @@
-#  N/B:  This build is really stable yet
+#  N/B:  This build is not stable yet. Precisely the timer .
 
 # required imports
 from tkinter import *
